@@ -1,7 +1,7 @@
 
 
 def main():
-  # this is a comment!!!
+  # this is a comment
   pass
 
 if __name__ == "__main__":
